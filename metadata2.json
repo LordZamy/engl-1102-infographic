@@ -11,13 +11,13 @@
         "Resisting",
         "Dependent",
         "Main Role",
-        "Heroine",
+        "Victim",
         "Strong",
         "Young",
-        "Economy",
-        "Environment",
-        "Equality",
-        "Government",
+        "Killed by Man",
+        "Rescues Man",
+        "Conflicted",
+        "Naive",
         "Race",
         "Spirituality",
         "Biocentric",
@@ -39,13 +39,13 @@
         "Resisting",
         "Independent",
         "Main Role",
-        "Victim",
+        "Heroine",
         "Strong",
         "Young",
-        "Spirituality",
-        "Anthropocentric",
-        "Extrinsic",
-        "Individualist",
+        "Saved by Man",
+        "Rescues Herself",
+        "Conflicted",
+        "Naive",
         "Localized",
         "Objectivist",
         "Physicalist",
@@ -65,7 +65,9 @@
         "Supporting Role",
         "Victim",
         "Weak",
-        "Old"
+        "Old",
+        "Conflicted",
+        "Brainwashed"
       ]
     },
     {
@@ -83,7 +85,10 @@
         "Victim",
         "Strong",
         "Young",
-        "Subjectivist"
+        "Saved by Man",
+        "Rescues Man",
+        "Rescues Herself",
+        "Conflicted"
       ]
     },
     {
@@ -94,16 +99,18 @@
       "date": "2012-05-24 10:32:01",
       "slug": "ditem-five-andrew-keen",
       "links": [
-        "Community",
-        "Economy",
-        "Education",
-        "Equality",
-        "Happiness",
-        "Media",
-        "Sci/Tech",
-        "Anthropocentric",
-        "Biological Continuity",
-        "Collectivist"
+        "Saved by Man",
+        "Rescues Man",
+        "Rescues Herself",
+        "Heroine",
+        "Strong",
+        "Young",
+        "Resisting",
+        "Conflicted",
+        "Brainwashed",
+        "Naive",
+        "Main Role",
+        "Independent"
       ]
     },
     {
@@ -114,14 +121,14 @@
       "date": "2012-05-27 16:57:17",
       "slug": "ditem-six-jan-lundberg",
       "links": [
-        "Agriculture",
+        "Saved by Man",
         "Collapse",
-        "Community",
-        "Economy",
-        "Environment",
-        "Population",
-        "Sci/Tech",
-        "Spirituality",
+        "Victim",
+        "Weak",
+        "Young",
+        "Submissive",
+        "Main Role",
+        "Dependent",
         "Biocentric",
         "Biological Continuity",
         "Collectivist",
@@ -136,129 +143,45 @@
   "themes": [
     {
       "type": "theme",
-      "name": "Agriculture",
+      "name": "Saved by Man",
       "description": "",
       "slug": "agriculture-2"
     },
     {
       "type": "theme",
-      "name": "Art",
+      "name": "Killed by Man",
       "description": "",
-      "slug": "art-2"
+      "slug": "saved-2"
     },
     {
       "type": "theme",
-      "name": "Class",
-      "description": "",
-      "slug": "class-2"
-    },
-    {
-      "type": "theme",
-      "name": "Collapse",
-      "description": "",
-      "slug": "collapse-2"
-    },
-    {
-      "type": "theme",
-      "name": "Community",
+      "name": "Conflicted",
       "description": "",
       "slug": "community-2"
     },
     {
       "type": "theme",
-      "name": "Economy",
+      "name": "Brainwashed",
       "description": "",
       "slug": "economy-2"
     },
     {
       "type": "theme",
-      "name": "Education",
+      "name": "Naive",
       "description": "",
-      "slug": "education-2"
+      "slug": "naive-2"
     },
     {
       "type": "theme",
-      "name": "Environment",
+      "name": "Rescues Man",
       "description": "",
-      "slug": "environment-2"
+      "slug": "art-2"
     },
     {
       "type": "theme",
-      "name": "Equality",
+      "name": "Rescues Herself",
       "description": "",
-      "slug": "equality-2"
-    },
-    {
-      "type": "theme",
-      "name": "Gender",
-      "description": "",
-      "slug": "gender"
-    },
-    {
-      "type": "theme",
-      "name": "Government",
-      "description": "",
-      "slug": "government-2"
-    },
-    {
-      "type": "theme",
-      "name": "Happiness",
-      "description": "",
-      "slug": "happiness-2"
-    },
-    {
-      "type": "theme",
-      "name": "Health",
-      "description": "",
-      "slug": "health"
-    },
-    {
-      "type": "theme",
-      "name": "Law",
-      "description": "",
-      "slug": "law-2"
-    },
-    {
-      "type": "theme",
-      "name": "Media",
-      "description": "",
-      "slug": "media-2"
-    },
-    {
-      "type": "theme",
-      "name": "Mythology",
-      "description": "",
-      "slug": "mythology"
-    },
-    {
-      "type": "theme",
-      "name": "Population",
-      "description": "",
-      "slug": "population-2"
-    },
-    {
-      "type": "theme",
-      "name": "Race",
-      "description": "",
-      "slug": "race-2"
-    },
-    {
-      "type": "theme",
-      "name": "Sci/Tech",
-      "description": "",
-      "slug": "scitech"
-    },
-    {
-      "type": "theme",
-      "name": "Spirituality",
-      "description": "",
-      "slug": "spirituality-2"
-    },
-    {
-      "type": "theme",
-      "name": "Time",
-      "description": "",
-      "slug": "time-2"
+      "slug": "class-2"
     }
   ],
   "perspectives": [
@@ -357,38 +280,6 @@
       "slug": "free-will",
       "count": "25",
       "group": "1259"
-    },
-    {
-      "type": "perspective",
-      "name": "Biological Continuity",
-      "description": "Personal identity over time stems from <a href=\"http://plato.stanford.edu/entries/identity-personal/#SomApp\">physical continuity</a>. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#psychological-continuity\">psychological continuity</a>.",
-      "slug": "biology-personal-identity",
-      "count": "6",
-      "group": "1261"
-    },
-    {
-      "type": "perspective",
-      "name": "Psychological Continuity",
-      "description": "Personal identity over time stems from <a href=\"http://plato.stanford.edu/entries/identity-personal/#PsyApp\">psychological continuity</a>. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#biological-continuity\">biological continuity</a>.",
-      "slug": "psychology-personal-identity",
-      "count": "4",
-      "group": "1261"
-    },
-    {
-      "type": "perspective",
-      "name": "Extrinsic",
-      "description": "Value is assigned to by humans to non-human things, whether animals, plants, or inanimate objects. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#intrinsic\">intrinsic</a>.",
-      "slug": "extrinsic",
-      "count": "8",
-      "group": "1265"
-    },
-    {
-      "type": "perspective",
-      "name": "Intrinsic",
-      "description": "Value is intrinsic to things, whether people, animals, or inanimate objects. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#extrinsic\">extrinsic</a>.",
-      "slug": "intrinsic",
-      "count": "12",
-      "group": "1265"
     }
   ]
 }
