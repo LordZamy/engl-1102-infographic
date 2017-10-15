@@ -13,7 +13,7 @@
         "Main Role",
         "Heroine",
         "Strong",
-        "Community",
+        "Young",
         "Economy",
         "Environment",
         "Equality",
@@ -36,12 +36,12 @@
       "date": "2012-05-09 15:53:27",
       "slug": "ditem-two-dr-max-more",
       "links": [
-        "Economy",
-        "Environment",
-        "Government",
-        "Law",
-        "Population",
-        "Sci/Tech",
+        "Resisting",
+        "Independent",
+        "Main Role",
+        "Victim",
+        "Strong",
+        "Young",
         "Spirituality",
         "Anthropocentric",
         "Extrinsic",
@@ -60,12 +60,12 @@
       "date": "2012-05-14 01:10:12",
       "slug": "ditem-three-peter-warren",
       "links": [
-        "Agriculture",
-        "Community",
-        "Economy",
-        "Environment",
-        "Government",
-        "Anthropocentric"
+        "Submissive",
+        "Dependent",
+        "Supporting Role",
+        "Victim",
+        "Weak",
+        "Old"
       ]
     },
     {
@@ -76,15 +76,13 @@
       "date": "2012-05-20 15:39:43",
       "slug": "ditem-four-dr-colin-camerer",
       "links": [
-        "Community",
-        "Economy",
-        "Education",
-        "Environment",
-        "Equality",
-        "Happiness",
-        "Sci/Tech",
-        "Anthropocentric",
-        "Physicalist",
+        "Resisting",
+        "Independent",
+        "Main Role",
+        "Heroine",
+        "Victim",
+        "Strong",
+        "Young",
         "Subjectivist"
       ]
     },
@@ -346,7 +344,7 @@
     },
     {
       "type": "perspective",
-      "name": "Determinism",
+      "name": "Old",
       "description": "Episodes in this category include perspectives ranging from strict <a href=\"http://plato.stanford.edu/entries/determinism-causal/\">determinism</a> to determinism tempered by free will. Determinism is a broad category and includes the sense that human actions are largely shaped by the <a href=\"http://en.wikipedia.org/wiki/Environmental_determinism\">environment</a>, <a href=\"http://en.wikipedia.org/wiki/Technological_determinism\">technology</a>, a divine plan, etc. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#free-will\">free will</a>.",
       "slug": "determinism",
       "count": "3",
@@ -354,7 +352,7 @@
     },
     {
       "type": "perspective",
-      "name": "Free Will",
+      "name": "Young",
       "description": "Episodes in this category include lean towards attributing human behavior to <a href=\"http://plato.stanford.edu/entries/freewill/\">free will</a>. Human agency may be influenced by larger systems (environmental, technological, atomic, divine), but it is not a prisoner to them. Antonym: <a href=\"http://www.findtheconversation.com/concept-map/#determinism\">determinism</a>.",
       "slug": "free-will",
       "count": "25",
