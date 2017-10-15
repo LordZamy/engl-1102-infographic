@@ -127,7 +127,7 @@
 /* map */
 .conceptmap svg {
   font-family: Abel,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 15px;
+  font-size: 12px;
 }
 .conceptmap .ditem > rect {
   stroke: #fff;
